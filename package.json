@@ -1,0 +1,23 @@
+{
+  "name": "proyectointegrador1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+<<<<<<< HEAD
+    "express": "^4.18.2",
+=======
+    "express": "^4.18.1",
+>>>>>>> 019f7d76b30ba9e8ea2affa70dbd7fa14d91afda
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  }
+}
